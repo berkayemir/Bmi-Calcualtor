@@ -1,0 +1,33 @@
+.App {
+  box-sizing: border-box;
+  
+}
+.header-fonts{
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5rem;
+}
+
+.main-article{
+  font-family: 'STIX Two Text', serif;
+  font-size: 1.4rem;
+}
+.main-header{
+  font-family: 'STIX Two Text', serif;
+  
+}
+.main-orders{
+  font-family: 'STIX Two Text', serif;
+  font-size: 1.2rem;
+}
+.calculate-area{
+  border: 3px aqua ;
+  border-style: inset;
+  min-width: 500px;
+  height: 500px;
+ 
+  
+}
+.main-right{
+  font-family: 'STIX Two Text', serif;
+  font-size: 1.2rem;
+}
